@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#990000",
  "name": "Academia FlaFitt",
+ "background_color": "#990000",
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "theme_color": "#990000",
- "start_url": "index.htm?installed=true"
+ "theme_color": "#990000"
 }
